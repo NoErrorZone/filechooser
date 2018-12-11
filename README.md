@@ -2,9 +2,9 @@
 
 ## cordova-plugin-android-file-chooser
 
-This project was forked from https://github.com/caixiangsap/filechooser.git, taht was forked from https://github.com/wrrzag88/filechooser.git, that was forked from [Crypho/filechooser](https://github.com/Crypho/filechooser), that was originally forked from [cdibened/filechooser](https://github.com/cdibened/filechooser), so... thank you all for your work.
+This project was forked from https://github.com/caixiangsap/filechooser.git, that was forked from https://github.com/wrrzag88/filechooser.git, that was forked from [Crypho/filechooser](https://github.com/Crypho/filechooser), that was originally forked from [cdibened/filechooser](https://github.com/cdibened/filechooser), so... thank you all for your work.
 
-The reason for this fork was the issue that it was not possible to restore the plugin in an automated build environment. No code chages are made.
+The reason for this fork was the issue that it was not possible to restore the plugin in an automated build environment. No code changes are made.
 
 This plugin was created as a workaround for https://issues.apache.org/jira/browse/CB-5294 and https://code.google.com/p/android/issues/detail?id=62220. This plugin is mainly configured for Android 4.4 so I would recommend to continue to use the native file dialogs for earlier versions of Android. There might be issues with the plugin as I have not fully tested all possible scenarios on many devices, but I have installed it on a Nexus 5 and it worked fine.
 
