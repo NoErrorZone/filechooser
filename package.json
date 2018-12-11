@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-android-file-chooser",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "File Chooser for Cordova/Phonegap based on filechooser from cdibened & crypho & wrrzag88.",
   "cordova": {
     "id": "cordova-plugin-android-file-chooser",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/subzero01/filechooser.git"
+    "url": "https://github.com/subzero01/filechooser.git"
   },
   "keywords": [
     "cordova",
