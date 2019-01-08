@@ -55,7 +55,7 @@
                 android:name="com.crypho.localstorage.LocalStorageProvider"
                 android:authorities="${applicationId}.localstorage.documents"
                 android:enabled="@bool/use_provider"
-                android:exported="false"
+                android:exported="true"
                 android:grantUriPermissions="true"
                 android:permission="android.permission.MANAGE_DOCUMENTS" >
                     <intent-filter>
